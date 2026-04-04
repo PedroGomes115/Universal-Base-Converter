@@ -1,30 +1,44 @@
-# Universal-Base-Converter
-A flexible Python tool that converts data between multiple formats.
+# Universal Base Converter & Crypto 
+
+A flexible Python tool that converts data between multiple formats and provides basic encryption and hashing utilities. Perfect for programmers, students, and hobbyists who work with data encoding, cryptography, and text transformations.
+
+## Supported Formats
+
+Hexadecimal (hex) – Programming, memory dumps
+
+Binary (bin) – Low-level computing, electronics
+
+Decimal (dec) – Human-readable numbers
+
+Base64 (base64) – Email, HTTP,
+
+Base32 (base32) – OTP keys, QR codes, network protocols
+
+Base85 (base85) – File embedding, compressed text data
+
+URL (url) – Web URLs and APIs
+
+Text (text) – Plain human-readable strings
 
 ---
 
-### Supported Formats
+## Features
 
-- **Hexadecimal (`hex`)** – Programming, memory dumps, cryptography  
-- **Binary (`bin`)** – Low-level computing, electronics, networking  
-- **Decimal (`dec`)** – Human-readable numbers  
-- **Base64 (`base64`)** – Email, HTTP, file transfer  
-- **Base32 (`base32`)** – OTP keys, QR codes, network protocols  
-- **Base85 (`base85`)** – File embedding, compressed text data  
-- **URL (`url`)** – Web URLs and APIs  
-- **Text (`text`)** – Plain human-readable strings  
+Convert between any of the supported formats
 
----
+Caesar cipher encryption and decryption
 
-### Features
+Base64 encode and decode text
 
-- Convert between any of the supported formats  
-- Automatically detect input format using `auto`  
-- Interactive CLI interface for easy use  
+Hash text using MD5, SHA1, or SHA256
+
+Interactive command-line interface (CLI) for easy navigation
+
+Option to return to the main menu from any submenu
 
 ---
 
-### Installation
+## Installation
 
 Make sure you have Python 3 installed
 
