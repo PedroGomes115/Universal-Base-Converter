@@ -1,4 +1,4 @@
-# Universal Base Converter & Crypto 
+# Universal Data Converter
 
 A flexible Python tool that converts data between multiple formats and provides basic encryption and hashing utilities. Perfect for programmers, students, and hobbyists who work with data encoding, cryptography, and text transformations.
 
